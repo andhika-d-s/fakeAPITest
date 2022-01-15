@@ -35,13 +35,13 @@
       "nama_produk": "Telur Super",
       "desc": "lorem ipsum",
       "harga": 50000
-    },
+    }
   ],
   "pesanan": [
     {
       "id_pesan": 1,
       "id_outlet": 1,
-      "pesanan": [
+      "list_pesanan": [
         {
           "id_produk": 1,
           "nama_produk": "Telur Kecil",
